@@ -1,0 +1,153 @@
+#s1 {
+  position: relative;
+  top: -344px;
+  left: 404px;
+}
+#s2 {
+  position: relative;
+  top: -345px;
+  left: 404px;
+}
+#s3 {
+  position: relative;
+  top: -346px;
+  left: 404px;
+}
+#s4 {
+  position: relative;
+  top: -503px;
+  left: 490px;
+}
+#s5 {
+  position: relative;
+  top: -504px;
+  left: 490px;
+}
+#s6 {
+  position: relative;
+  top: -505px;
+  left: 490px;
+}
+
+#solid1 {
+  width: 81px;
+  height: 48px;
+  position: absolute;
+  left: 1px;
+  background-color: gray;
+  border: none;
+}
+#solid2 {
+  width: 81px;
+  height: 48px;
+  position: absolute;
+  top: 1px;
+  left: 88px;
+  background-color: gray;
+  border: none;
+}
+#solid3 {
+  width: 81px;
+  height: 48px;
+  position: absolute;
+  top: 55px;
+  left: 1px;
+  background-color: gray;
+  border: none;
+}
+#solid4 {
+  width: 81px;
+  height: 48px;
+  position: absolute;
+  top: 211px;
+  left: 1px;
+  background-color: gray;
+  border: none;
+}
+#solid5 {
+  width: 81px;
+  height: 48px;
+  position: absolute;
+  top: 265px;
+  left: -85px;
+  background-color: gray;
+  border: none;
+}
+
+#solid6 {
+  width: 81px;
+  height: 48px;
+  position: absolute;
+  top: 266px;
+  left: 1px;
+  background-color: gray;
+  border: none;
+}
+
+#solid1:hover {
+  background-color: rgb(219, 219, 219);
+  cursor: crosshair;
+}
+
+#solid2:hover {
+  background-color: rgb(219, 219, 219);
+  cursor: crosshair;
+}
+#solid3:hover {
+  background-color: rgb(219, 219, 219);
+  cursor: crosshair;
+}
+#solid4:hover {
+  background-color: rgb(219, 219, 219);
+  cursor: crosshair;
+}
+#solid5:hover {
+  background-color: rgb(219, 219, 219);
+  cursor: crosshair;
+}
+#solid6:hover {
+  background-color: rgb(219, 219, 219);
+  cursor: crosshair;
+}
+
+#scratch1 {
+  z-index: -1;
+  position: absolute;
+  top: -1px;
+  right: 0px;
+}
+
+#scratch2 {
+  z-index: -1;
+  position: absolute;
+  top: -1px;
+  right: 0px;
+}
+
+#scratch3 {
+  z-index: -1;
+  position: absolute;
+  top: -1px;
+  right: 0px;
+}
+
+#scratch4 {
+  z-index: -1;
+  position: absolute;
+  top: -1px;
+  right: 0px;
+}
+
+#scratch5 {
+  z-index: -1;
+  position: absolute;
+  top: -1px;
+  right: 0px;
+}
+
+#scratch6 {
+  z-index: -1;
+  position: absolute;
+  top: -1px;
+  right: 0px;
+}
